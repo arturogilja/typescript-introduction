@@ -1,0 +1,25 @@
+{
+  "name": "introduccion-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturogilja/typescript-introduction.git"
+  },
+  "author": "Arturo Gil Jacome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturogilja/typescript-introduction/issues"
+  },
+  "homepage": "https://github.com/arturogilja/typescript-introduction#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.168"
+  }
+}
